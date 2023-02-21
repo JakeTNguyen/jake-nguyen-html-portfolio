@@ -3,14 +3,14 @@
 This is my personal portfolio website that showcases my work and provides information about my background and skills. The website is built using HTML and CSS and is fully responsive for optimal viewing on all devices. This site will continue to be updated as I build more projects and learn new skills.
 
 ## Table of Contents
-- [Link](#link-me)
+- [Link](#link)
 - [About Me](#about-me)
 - [Projects](#projects)
 - [Contact Me](#contact-me)
 
 ## Link
-Link to the live website:  https://jaketnguyen.github.io/jake-nguyen-html-portfolio/
-Link to the source code on GitHub: https://github.com/JakeTNguyen/jake-nguyen-html-portfolio
+- Link to the live website:  https://jaketnguyen.github.io/jake-nguyen-html-portfolio/
+- Link to the source code on GitHub: https://github.com/JakeTNguyen/jake-nguyen-html-portfolio
 
 ![Screenshot of My Portfolio](./assets/jaketnguyen.github.io_jake-nguyen-html-portfolio_.png)
 
