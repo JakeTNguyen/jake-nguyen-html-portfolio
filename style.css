@@ -1,6 +1,8 @@
 nav {
 	display: block;
 	float: left;
+    width: 100%;
+    margin: 25px;
 }
 
 nav ul {
